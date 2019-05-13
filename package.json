@@ -1,0 +1,20 @@
+{
+  "name": "cloud-code",
+  "version": "1.0.0",
+  "description": "Gestor de Archivos creado con PHP, JS, HTML Y AdminLTE",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Files",
+    "Gestor",
+    "Archivos",
+    "PHP",
+    "JS",
+    "HTML",
+    "JQUERY"
+  ],
+  "author": "Manuel Ramirez Coronel",
+  "license": "ISC"
+}

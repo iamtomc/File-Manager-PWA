@@ -1,0 +1,36 @@
+- - - - -  - - - - - - - - - - - Cloud Code - Compartir archivos- - - - - - - - - - - -
+Cloud Code es un sistema para compartir archivos de proposito general, codigo abierto y gratis.
+
+Descripcion:
+Cloud Code es un sistema para compartir archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos, concedir permisos a los archivos/carpetas a tus amigos/familiares/compañeros, comentar las publicaciones, recibir notificaciones y mucho mas.
+
+- - - - - - - - - - - - MODULOS - - - - - - - - - - - -
+Defino a grandes rasgos los modulos generales del sistema.
+
+1). Usuarios: Se pueden registrar para acceder a sus cuentas y asi empezar con Cloud Code.
+
+2). Subir archivos: Cada usuario puede subir lo que quiera y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+3). Crear carpetas: Cada usuario puede crear carpetas y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+4). Perfiles: Los usuarios pueden rellenar su perfil.
+
+5).Comentarios: Los usuarios pueden escribir comentarios a los archivos y/o imagenes de sus amigos.
+
+6).Notificaciones: recibe notificaciones cuando tus amigos descarguen o comentan tus archivos y/o carpetas.
+
+EL sistema es de codigo abierto, puede ser utilizado para empresas o uso personal.
+
+INSTALACIÓN
+
+1). Crear base de datos con el nombre: cloud-code.
+
+2). Importar el archivo SQL llamado cloud-code.sql en phpmyadmin.
+
+3). Poner la carpeta Cloud-Code en htcdocs en XAMPP o www en WAMP.
+
+4). Entrar al localhost.
+
+5). Dar click en crear cuenta y Iniciar Sesión.
+
+6). Listo!! Por el momento no lo modificare hasta que tenga una version con cambios mas grandes.
